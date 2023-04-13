@@ -10,3 +10,6 @@
 [submodule "submodule-4"]
 	path = submodule-4
 	url = https://github.com/dualBreath/submodule-4.git
+[submodule "submodule-5"]
+	path = submodule-5
+	url = https://github.com/dualBreath/submodule-5.git
